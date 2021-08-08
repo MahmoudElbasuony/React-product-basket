@@ -1,0 +1,18 @@
+.product-section{
+    padding:1em;
+    border-radius: 5px;
+    padding: 1em;
+    text-align: left;
+}
+.product-section__description{
+    max-width: 12em;
+    text-align: left;
+}
+
+
+.product-section__previous-price{
+    padding: 0;
+    margin: 0;
+    font-size: 0.8em;
+    color: #707070;
+}

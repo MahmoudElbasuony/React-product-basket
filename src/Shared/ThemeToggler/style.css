@@ -1,0 +1,9 @@
+.dark-mode-container {
+  position: absolute;
+  top: 0.8em;
+  right: 4em;
+}
+
+.dark-mode-container,.dark-mode-container * {
+  cursor: pointer;
+}

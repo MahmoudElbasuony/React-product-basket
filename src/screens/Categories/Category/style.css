@@ -1,0 +1,23 @@
+.category-section {
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 0.5em;
+}
+
+
+.category-section__title {
+    text-align: left;
+}
+
+.category-section__content {
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: white;
+    justify-content: space-around;
+}
+
+.category-section__content--dark {
+    color: var(--dark-color);
+}

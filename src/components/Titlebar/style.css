@@ -1,0 +1,23 @@
+.title-bar {
+    padding: 1em 4em;
+    text-align: left;
+    left: 0;
+}
+
+.title-bar__title {
+    padding-left: 1em;
+}
+
+.title-bar__close {
+    float: right;
+    margin-top: -0.3em;
+}
+
+.title-bar.--dark-mode {
+    border-bottom: 2px solid white;
+}
+
+.title-bar.--light-mode {
+    background-color: white;
+
+}

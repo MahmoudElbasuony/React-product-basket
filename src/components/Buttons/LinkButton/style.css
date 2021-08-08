@@ -1,0 +1,14 @@
+.link-btn {
+    padding: 13px 30px;
+    text-align: center;
+    border-radius: 3px;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(156, 42, 160, 1);
+    text-decoration: none;
+    display: inline-block;
+}
+
+.link-btn--sm{
+    font-size: 0.5em;
+    padding: 5px;
+}

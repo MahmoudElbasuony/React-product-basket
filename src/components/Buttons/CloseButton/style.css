@@ -1,0 +1,10 @@
+.close-btn {
+    border-radius: 1em;
+    border: none;
+    background: #d6d6d6;
+    cursor: pointer;
+}
+
+.close-btn:hover {
+    background: whitesmoke;
+}

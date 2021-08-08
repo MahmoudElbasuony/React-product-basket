@@ -1,0 +1,20 @@
+.action-bar {
+    padding: 0.2em 2em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+.products-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.products-container__content{
+    min-height: 50vh;
+    position: relative;
+}
+
+.products-container__no-categories{
+    font-weight: bold;
+    padding: 10em;
+}

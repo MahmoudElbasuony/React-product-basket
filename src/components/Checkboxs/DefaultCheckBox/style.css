@@ -1,0 +1,12 @@
+.default-checkbox-container * {
+    cursor: pointer;
+}
+
+.default-checkbox-container__input {
+    display: block;
+    width: 2em;
+    height: 2em;
+    float: left;
+    margin-top: -1px;
+    margin-right: 1em;
+}
